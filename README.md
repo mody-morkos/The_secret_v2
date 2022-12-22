@@ -6,10 +6,7 @@ The_secret_V2 program performs 6 main functions
 4.	Extract image from image
 5.	Extract text from image
 6.	Decrypt  text using two algorithms, Caesar cipher and rail Fence cipher.
-Encrypting
 ![image](https://user-images.githubusercontent.com/69063844/209179447-3afe6988-c05e-4608-b134-aada23c4a565.png)
-
-Decryption
 ![image](https://user-images.githubusercontent.com/69063844/209179836-492d6483-1c4d-41f8-b1d9-746552ccd8e8.png)
 
 
