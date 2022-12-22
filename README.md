@@ -10,4 +10,4 @@ The_secret_V2 program performs 6 main functions
 ![image](https://user-images.githubusercontent.com/69063844/209179836-492d6483-1c4d-41f8-b1d9-746552ccd8e8.png)
 
 
-Everything you need to know [IMGSEC.docx](https://github.com/mody-morkos/The_secret_v2/files/10288480/IMGSEC.docx)
+Everything you need to know IMGSEC.pdf
